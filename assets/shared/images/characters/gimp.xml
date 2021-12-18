@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gimp.png"><SubTexture name="gimp down0000" x="0" y="0" width="744" height="720" frameX="0" frameY="0" frameWidth="744" frameHeight="720" />
+<SubTexture name="gimp down0001" x="744" y="0" width="744" height="720" frameX="0" frameY="0" frameWidth="744" frameHeight="720" />
+<SubTexture name="gimp idle0000" x="1488" y="0" width="744" height="720" frameX="0" frameY="0" frameWidth="744" frameHeight="720" />
+<SubTexture name="gimp idle0001" x="0" y="720" width="744" height="720" frameX="0" frameY="0" frameWidth="744" frameHeight="720" />
+<SubTexture name="gimp idle0002" x="744" y="720" width="744" height="720" frameX="0" frameY="0" frameWidth="744" frameHeight="720" />
+<SubTexture name="gimp idle0003" x="1488" y="720" width="744" height="720" frameX="0" frameY="0" frameWidth="744" frameHeight="720" />
+<SubTexture name="gimp left0000" x="0" y="1440" width="744" height="721" frameX="0" frameY="0" frameWidth="744" frameHeight="721" />
+<SubTexture name="gimp left0001" x="744" y="1440" width="744" height="720" frameX="0" frameY="0" frameWidth="744" frameHeight="720" />
+<SubTexture name="gimp right0000" x="1488" y="1440" width="744" height="720" frameX="0" frameY="0" frameWidth="744" frameHeight="720" />
+<SubTexture name="gimp right0001" x="0" y="2161" width="744" height="720" frameX="0" frameY="0" frameWidth="744" frameHeight="720" />
+<SubTexture name="gimp up0000" x="744" y="2161" width="744" height="720" frameX="0" frameY="0" frameWidth="744" frameHeight="720" />
+<SubTexture name="gimp up0001" x="1488" y="2161" width="744" height="720" frameX="0" frameY="0" frameWidth="744" frameHeight="720" />
+</TextureAtlas>
