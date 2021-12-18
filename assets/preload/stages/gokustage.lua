@@ -1,9 +1,14 @@
 function onCreate()
-	local curBG = 'bg' -- bg name here must be located at mods/images
+	-- background shit
 
-	makeLuaSprite('Background', curBG, -800, -300);
-	setLuaSpriteScrollFactor('Background', 1, 1);         
-	addLuaSprite('Background', false);
+	makeLuaSprite('dbz', 'dave/dbz', -600, -300);
+
+	makeLuaSprite('dbz', 'dave/dbz', -600, -300);
+	setLuaSpriteScrollFactor('dbz', 0.8, 0.8);
+	setLuaSpriteScrollFactor('dbz', 0.8, 0.8);
+                   
+	addLuaSprite('dbz', false);
+	addLuaSprite('dbz', false); 
 end
 
 local u = false;
