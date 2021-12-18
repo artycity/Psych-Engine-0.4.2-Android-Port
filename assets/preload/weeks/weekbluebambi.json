@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Phone-Smash", "bluebamb", [21, 89, 181]],
+		["Spamming", "bluebamb", [21, 89, 181]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "bluebamber",
+
+	"storyName": "BLUE BAMBER                            ",
+	"weekBefore": "week8",
+	"weekName": "Blue Bamber Week",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

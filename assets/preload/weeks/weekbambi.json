@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Blocked", "bambi", [12, 181, 0]],
+		["Corn-Theft", "bambi", [12, 181, 0]],
+		["Maze", "bambi", [12, 181, 0]],
+		["Outdark", "bambi", [12, 181, 0]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "bamboi",
+
+	"storyName": "mr. bambi's fun corn maze!",
+	"weekBefore": "tutorial",
+	"weekName": "Bambi Week",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,27 @@
+{
+	"songs": [
+		["Lights-Down", "bambi", [12, 181, 0]],
+		["Monochrome", "mono-bambi", [240, 240, 240]],
+		["Popcorn", "evilmarcello", [255, 0, 0]],
+		["Castellano", "goku", [0, 255, 255]],
+		["Cheating", "bambi-3d", [50, 224, 79]],
+		["Screwed", "gimp", [140, 224, 164]],
+		["Unfairness", "bambi-chinese", [175, 0, 0]],
+		["Eastern-Communism", "glorytotheccp", [255, 115, 101]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "bonus",
+
+	"storyName": "Bonus Bambi Songs                         ",
+	"weekBefore": "weekbambi",
+	"weekName": "Bambi Freeplay Week",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Picnic", "bambi", [12, 181, 0]],
+		["Marathon", "bambi", [12, 181, 0]],
+		["Rageworthy", "dave-player", [15, 95, 255]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "finale",
+
+	"storyName": "the ultimate showdown",
+	"weekBefore": "weekbambi",
+	"weekName": "Finale Week",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
