@@ -1,0 +1,24 @@
+{
+	"position": [
+		40,
+		140
+	],
+	"dialogue_pos": "left",
+	"scale": 1.4,
+	"image": "bambi_blocked",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-10
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "bambi blocked portrait",
+			"loop_name": "bambi blocked portrait"
+		}
+	]
+}
