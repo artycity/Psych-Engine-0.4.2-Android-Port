@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Davenbamb.png">
+	<SubTexture name="dave bambi week portrait0000" x="10" y="570" width="480" height="270" frameX="-100" frameY="0" frameWidth="580" frameHeight="270"/>
+</TextureAtlas>
