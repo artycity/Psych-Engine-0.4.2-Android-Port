@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uh, we need to go, we beat you in like a rap battle already, Dave is calling us!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambi-confused",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait a minute, what? and who is Dave!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "or is it an excuse to steal my CORN!?!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambi-confused",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, so be it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No. trust me, this is a misunderstanding, we're not trying to steal your corn, Dave sent us here for picnic"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambi-confused",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You know, I can't just trust strangers, I will if you can pass me "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "IF YOU EVEN CAN"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bring it on!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "when the fuck did you speak english"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uh... I mean, Beep boop bahskeep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay okay, I know your actual intentions now, even if your not stealing my corn, your still not supposed to be here!! Now one more song or UH.. UHM, IM BLOCKING YOU! YOU OL RODEO TRASH!!!"
+		}
+	]
+} 

@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Wait, hold on. There's an incoming phone call fromDave"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "This isn't good then.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey, like, what's up"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Dave, we're not in the best place but we'll be there, okay?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Dave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, ok then, I guess?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Just meet me anytime you want, okay?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thanks, Dave. I know I can hope the best for you. Bye!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So, what now?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambi-confused",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I will let cha' two go if you can beat me in a few songs. Alright?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Wow, seems like a great offer, as if it's why we did this"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So, BF you got the balls to face him, again?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		}
+	]
+}
