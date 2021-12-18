@@ -6,14 +6,10 @@ function onEvent(name, value1, value2)
 			duration = 0;
 		end
 
-		targetAlpha = tonumber(value2);
-		if duration == 0 then
-			setProperty('dad.alpha', targetAlpha);
-			setProperty('iconP2.alpha', targetAlpha);
-		else
-			doTweenAlpha('dadFadeEventTween', 'dad', targetAlpha, duration, 'linear');
-			doTweenAlpha('iconDadFadeEventTween', 'iconP2', targetAlpha, duration, 'linear');
-		end
-		--debugPrint('Event triggered: ', name, duration, targetAlpha);
+		doTweenAlpha('dadFadeEventTween', 'dad', value2, duration, 'linear');
+		doTweenAlpha('iconDadFadeEventTween', 'iconP2', value2, duration, 'linear');
+		doTweenAlpha('boyfriendFadeEventTween', 'boyfriend', value2, duration, 'linear');
+		doTweenAlpha('girlfriendFadeEventTween', 'gf', value2, duration, 'linear');
+		doTweenAlpha('iconBoyfriendFadeEventTween', 'iconP1', value2, duration, 'linear');
 	end
 end
